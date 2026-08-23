@@ -3,9 +3,9 @@ export const APP_ID = `${process.env.NEXT_PUBLIC_APP_ID}`
 export const API_KEY = `${process.env.NEXT_PUBLIC_APP_KEY}`
 export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const APP_INFO: AppInfo = {
-  title: 'Chat APP',
-  description: '',
-  copyright: '',
+  title: 'AFIL Teach Beta',
+  description: 'The official educational assistant developed by the African Trio Innovation Lab. Powered by the national NERDC Scheme of Work to provide localised, zero-data-friendly all-subjects tutoring for secondary school students.',
+  copyright: '@AFIL, 2026',
   privacy_policy: '',
   default_language: 'en',
   disable_session_same_site: false, // set it to true if you want to embed the chatbot in an iframe
